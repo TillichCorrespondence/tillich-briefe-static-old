@@ -33,9 +33,6 @@
                                     <li>
                                         <a class="dropdown-item" href="toc.html" >Mit Faks</a>
                                     </li>
-                                    <li>
-                                        <a class="dropdown-item" href="toc_facs.html" >Ohne Faks</a>
-                                    </li>
                                 </ul>
                             </li>
                             <li class="nav-item dropdown disabled">
@@ -43,15 +40,6 @@
                                 <ul class="dropdown-menu">
                                     <li>
                                         <a class="dropdown-item" href="listperson.html" >Personen</a>
-                                    </li>
-                                    <li>
-                                        <a class="dropdown-item" href="listplace.html" >Orte</a>
-                                    </li>
-                                    <li>
-                                        <a class="dropdown-item" href="listorg.html" >Institutionen</a>
-                                    </li>
-                                    <li>
-                                        <a class="dropdown-item" href="listbibl.html" >Werke</a>
                                     </li>
                                 </ul>
                             </li>
