@@ -97,7 +97,7 @@
                         <acdh:hasActor>
                             <acdh:Person>
                                 <xsl:attribute name="rdf:about"><xsl:value-of select="$entId"/></xsl:attribute>
-                                <acdh:hasTitle xml:lang="und"><xsl:value-of select=".//tei:forename[1]/text()||' '||.//tei:surname[1]/text()"/></acdh:hasTitle>
+                                <acdh:hasTitle xml:lang="und"><xsl:value-of select="./tei:persName[1]/tei:forename[1]/text()||' '||./tei:persName[1]/tei:surname[1]/text()"/></acdh:hasTitle>
                             </acdh:Person>
                         </acdh:hasActor>
                     </xsl:for-each>
