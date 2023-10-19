@@ -96,7 +96,7 @@
                             </div>
                             <div class="card-footer">
                                 <p style="text-align:center;">
-                                    <xsl:for-each select=".//tei:note[not(./tei:p)]">
+                                    <xsl:for-each select=".//tei:body//tei:note[not(./tei:p)]">
                                         <div class="footnotes" id="{local:makeId(.)}">
                                             <xsl:element name="a">
                                                 <xsl:attribute name="name">

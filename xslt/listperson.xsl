@@ -37,11 +37,12 @@
                                         <tr>
                                             <th scope="col">Nachname</th>
                                             <th scope="col">Vorname</th>
+                                            <th scoe="col">Erwähnungen</th>
                                             <th scope="col">ID</th>
                                         </tr>
                                     </thead>
                                     <tbody>
-                                        <xsl:for-each select=".//tei:person[@xml:id]">
+                                        <xsl:for-each select=".//tei:person[@xml:id and ./tei:noteGrp]">
                                             <xsl:variable name="id">
                                                 <xsl:value-of select="data(@xml:id)"/>
                                             </xsl:variable>
@@ -51,6 +52,9 @@
                                                 </td>
                                                 <td>                                        
                                                     <xsl:value-of select=".//tei:forename/text()"/>
+                                                </td>
+                                                <td>                                        
+                                                    <xsl:value-of select="count(./tei:noteGrp//tei:note/text())"/>
                                                 </td>
                                                 <td>
                                                     <a>
