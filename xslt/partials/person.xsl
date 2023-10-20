@@ -27,14 +27,34 @@
                     </td>
                 </tr>
                 </xsl:if>
-                <xsl:if test="./tei:idno[@type='GND']/text()">
+                <xsl:if test="./tei:occupation">
+                    <tr>
+                        <th>
+                            Tätigkeiten
+                        </th>
+                        <td>
+                            <xsl:value-of select="./tei:occupation"/>
+                        </td>
+                    </tr>
+                </xsl:if>
+                <xsl:if test="./tei:note[@type='bio']">
+                    <tr>
+                        <th>
+                            Kurzbio
+                        </th>
+                        <td>
+                            <xsl:value-of select="./tei:note[@type='bio']"/>
+                        </td>
+                    </tr>
+                </xsl:if>
+                <xsl:if test="./tei:idno[@type='gnd']/text()">
                     <tr>
                         <th>
                             GND ID
                         </th>
                         <td>
-                            <a href="{./tei:idno[@type='GND']}" target="_blank">
-                                <xsl:value-of select="tokenize(./tei:idno[@type='GND'], '/')[last()]"/>
+                            <a href="{./tei:idno[@type='gnd']}" target="_blank">
+                                <xsl:value-of select="tokenize(./tei:idno[@type='gnd'], '/')[last()]"/>
                             </a>
                         </td>
                     </tr>

@@ -35,8 +35,9 @@
                                 <table class="table table-striped display" id="tocTable" style="width:100%">
                                     <thead>
                                         <tr>
-                                            <th scope="col">Nachname</th>
-                                            <th scope="col">Vorname</th>
+                                            <th scope="col">Name</th>
+                                            <th scope="col">Tätigkeit</th>
+                                            <th scope="col">Lebensdaten</th>
                                             <th scoe="col">Erwähnungen</th>
                                             <th scope="col">ID</th>
                                         </tr>
@@ -47,12 +48,9 @@
                                                 <xsl:value-of select="data(@xml:id)"/>
                                             </xsl:variable>
                                             <tr>
-                                                <td>
-                                                    <xsl:value-of select=".//tei:surname/text()"/>
-                                                </td>
-                                                <td>                                        
-                                                    <xsl:value-of select=".//tei:forename/text()"/>
-                                                </td>
+                                                <td><xsl:value-of select="./tei:persName/text()"/></td>
+                                                <td><xsl:value-of select="./tei:occupation/text()"/></td>
+                                                <td><xsl:value-of select="./tei:birth/tei:date/text()"/> - <xsl:value-of select="./tei:death/tei:date/text()"/></td>
                                                 <td>                                        
                                                     <xsl:value-of select="count(./tei:noteGrp//tei:note/text())"/>
                                                 </td>
@@ -82,7 +80,7 @@
                 </div>
             </body>
         </html>
-        <xsl:for-each select=".//tei:person[@xml:id and ./tei:noteGrp]">
+        <xsl:for-each select=".//tei:person[@xml:id ]">
             <xsl:variable name="filename" select="concat(./@xml:id, '.html')"/>
             <xsl:variable name="name" select="normalize-space(string-join(./tei:persName//text()))"></xsl:variable>
             <xsl:result-document href="{$filename}">
