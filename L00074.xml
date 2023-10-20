@@ -82,35 +82,35 @@
       <body>
          <div type="writingSession">
             <pb n="1"/>
-            <p>Herzlichen Sonntagsgruß sendet Dir Deine treue Schwester <rs ref="#P01764" type="person">Elisabeth</rs> und Tante <rs ref="#P02089" type="person">Toni</rs>, die sehr auf gute Nachricht von Dir wartet.</p>
+            <p>Herzlichen Sonntagsgruß sendet Dir Deine treue Schwester <rs ref="#tillich_person_id__1762" type="person">Elisabeth</rs> und Tante <rs ref="#tillich_person_id__2085" type="person">Toni</rs>, die sehr auf gute Nachricht von Dir wartet.</p>
          </div>
       </body>
-   <back><listPerson><person xml:id="P02089">
-               <idno type="gnd">k. A.</idno>
-               <idno type="DB">k. A.</idno>
-               <persName type="reg">
-                  <forename>Toni</forename>
-                  <surname>Winkler</surname>
-               </persName>
-               <persName type="alternative">Tonichen</persName>
-               <birth>
-                  <date when="0001-01-01">k. A.</date>
-               </birth>
-               <death>
-                  <date when="0001-01-01">k. A.</date>
-               </death>
-               <occupation>Tante, Pflegemutter der Tillich-Kinder</occupation>
-            <noteGrp><note target="L00041.xml" type="mentions">Brief von Marie Tillich an Paul Tillich</note><note target="L00054.xml" type="mentions">Brief von Toni Winkler an Paul Tillich </note><note target="L00054.xml" type="mentions">Brief von Toni Winkler an Paul Tillich </note><note target="L00055.xml" type="mentions">Brief von Johannes Tillich an Paul Tillich </note><note target="L00065.xml" type="mentions">Brief von Johannes Tillich an Paul Tillich </note><note target="L00066.xml" type="mentions">Postkarte von Johannes Tillich u. a. an Paul Tillich </note><note target="L00074.xml" type="mentions">Postkarte von Elisabeth Tillich an Paul Tillich </note><note target="L00170.xml" type="mentions">Brief von Toni Winkler an Paul Tillich</note><note target="L00170.xml" type="mentions">Brief von Toni Winkler an Paul Tillich</note><note target="L00395.xml" type="mentions">Brief von Paul Tillich an Toni Winkler
-               </note><note target="L00395.xml" type="mentions">Brief von Paul Tillich an Toni Winkler
+   <back><listPerson><person xml:id="tillich_person_id__1762">
+                  <persName>Seeberger, Elisabeth</persName>
+                  <birth><date>1893</date></birth>
+                  <death><date>None</date></death>
+               <noteGrp><note target="L00054.xml" type="mentions">Brief von Toni Winkler an Paul Tillich </note><note target="L00066.xml" type="mentions">Postkarte von Johannes Tillich u. a. an Paul Tillich </note><note target="L00074.xml" type="mentions">Postkarte von Elisabeth Tillich an Paul Tillich </note><note target="L00167.xml" type="mentions">Postkarte von Elisabeth Tillich an Paul Tillich </note><note target="L00170.xml" type="mentions">Brief von Toni Winkler an Paul Tillich</note><note target="L00400.xml" type="mentions">Brief von Karl Hartz an Paul Tillich
+               </note><note target="L00402.xml" type="mentions">Brief von Paul Tillich an Elisabeth Tillich
+                    </note><note target="L00403.xml" type="mentions">Brief von Paul Tillich an Eilsabeth Tillich (Umschlagsadresse Alfred Fritz)
+               </note><note target="L00404.xml" type="mentions">Brief von Paul Tillich an Johanna Tillich
+               </note><note target="L00407.xml" type="mentions">Postkarte von Paul Tillich an Johannes Tillich
+               </note><note target="L00410.xml" type="mentions">Brief von Paul Tillich an Johannes Tillich
+               </note><note target="L00429.xml" type="mentions">Feldpostkarte von Paul Tillich an Johannes Tillich
+                    </note><note target="L00434.xml" type="mentions">Brief von Paul Tillich an Elisabeth Tillich
+               </note><note target="L00442.xml" type="mentions">Brief von Paul Tillich an Marie Tillich und Margarete Tillich </note></noteGrp></person>
+               <person xml:id="tillich_person_id__2085">
+                  <persName>Winkler, Toni</persName>
+                  <occupation>Tante, Pflegemutter der Tillich-Kinder</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118633635</idno>
+               <noteGrp><note target="L00041.xml" type="mentions">Brief von Marie Tillich an Paul Tillich</note><note target="L00054.xml" type="mentions">Brief von Toni Winkler an Paul Tillich </note><note target="L00055.xml" type="mentions">Brief von Johannes Tillich an Paul Tillich </note><note target="L00065.xml" type="mentions">Brief von Johannes Tillich an Paul Tillich </note><note target="L00066.xml" type="mentions">Postkarte von Johannes Tillich u. a. an Paul Tillich </note><note target="L00074.xml" type="mentions">Postkarte von Elisabeth Tillich an Paul Tillich </note><note target="L00170.xml" type="mentions">Brief von Toni Winkler an Paul Tillich</note><note target="L00395.xml" type="mentions">Brief von Paul Tillich an Toni Winkler
                </note><note target="L00400.xml" type="mentions">Brief von Karl Hartz an Paul Tillich
                </note><note target="L00401.xml" type="mentions">Brief von Paul Tillich an Toni Winkler
-                    </note><note target="L00401.xml" type="mentions">Brief von Paul Tillich an Toni Winkler
                     </note><note target="L00410.xml" type="mentions">Brief von Paul Tillich an Johannes Tillich
                </note><note target="L00418.xml" type="mentions">Brief von Paul Tillich an Johannes Tillich
                </note><note target="L00420.xml" type="mentions">Feldpostkarte von Paul Tillich an Johannes Tillich
                </note><note target="L00424.xml" type="mentions">Brief von Paul Tillich an Johannes Tillich
                     </note><note target="L00425.xml" type="mentions">Brief von Paul Tillich an Johannes Tillich
                </note><note target="L00429.xml" type="mentions">Feldpostkarte von Paul Tillich an Johannes Tillich
-                    </note><note target="L00442.xml" type="mentions">Brief von Paul Tillich an Marie Tillich und Margarete Tillich </note></noteGrp></person>   
-            </listPerson></back></text>
+                    </note><note target="L00442.xml" type="mentions">Brief von Paul Tillich an Marie Tillich und Margarete Tillich </note></noteGrp></person>
+               </listPerson></back></text>
 </TEI>

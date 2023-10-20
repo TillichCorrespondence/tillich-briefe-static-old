@@ -85,11 +85,11 @@
                <dateline>
                   <rs ref="#Gießen" type="place">Gießen</rs>, den <date when="1905-06-26">26. VI.
                      1905</date></dateline>
-               <salute>Lieber <rs ref="#P01930" type="person">Leibfux</rs>!</salute>
+               <salute>Lieber <rs ref="#tillich_person_id__1928" type="person">Leibfux</rs>!</salute>
             </opener>
             <p>Schon fing ich an Dir Dein langes Schweigen auf <note xml:id="L00052">meinen
                   Brief</note> von Ende Mai<note type="ea">Es ist wohl der Brief von Anfang Mai
-                  gemeint.</note> übel zu nehmen, als ich plötzlich am Donnerstag durch <rs ref="#P01697" type="person">Schaffts</rs> Freundlichkeit die Nachricht von einem Rückschlag
+                  gemeint.</note> übel zu nehmen, als ich plötzlich am Donnerstag durch <rs ref="#tillich_person_id__1696" type="person">Schaffts</rs> Freundlichkeit die Nachricht von einem Rückschlag
                Deiner Krankheit und einer zweiten Operation bekam. Wenn ich das gewußt hätte, hätte
                ich Dir natürlich, anstatt auf<pb n="2"/> einen Brief von Dir zu warten, lieber einen
                zweiten geschrieben. Ich dachte, Du seist wieder vollständig hergestellt u. kämst vor
@@ -98,153 +98,95 @@
                erholst Dich recht bald so, daß Du womöglich auf unser Stiftungsfest oder vielleicht
                auf dem Nachhausewege über <rs ref="#Gießen" type="place">Gießen</rs> kommen
                kannst.</p>
-            <p><rs ref="#P01074" type="person">Koch</rs> erzählte mir, daß Herr <rs ref="#P02549" type="person">Spicker</rs> in <rs ref="#Berlin" type="place">Berlin</rs> auch <pb n="3"/>
+            <p><rs ref="#tillich_person_id__1074" type="person">Koch</rs> erzählte mir, daß Herr <rs ref="#tillich_person_id__2544" type="person">Spicker</rs> in <rs ref="#Berlin" type="place">Berlin</rs> auch <pb n="3"/>
                an den Ohren operiert worden sei. Die Sache sei damals sehr gut abgelaufen u. die
                Operation gut u. schnell ausgeheilt. Hoffen wir also, daß es bei Dir ebenso schnell
                geht. Ich bedauere sehr, daß Du von dem Tübinger C.C.<note type="ea">Corpsburschenconvent</note> so wenig haben kannst. Vielleicht bleibst Du das
                dritte ev. auch noch das vierte Sem. noch dort; dann könntest Du ja nachholen, was Du
-               jetzt infolge Deiner Krankheit entbehren mußt. Wie geht es denn <rs ref="#P02140" type="person">Kaumann</rs> u. <rs ref="#P00227" type="person">Blech</rs>? Sie
+               jetzt infolge Deiner Krankheit entbehren mußt. Wie geht es denn <rs ref="#tillich_person_id__2136" type="person">Kaumann</rs> u. <rs ref="#tillich_person_id__227" type="person">Blech</rs>? Sie
                besuchen Dich wohl manchmal.<pb n="4"/></p>
             <p>Zum Schluß gute Besserung u herzl. Gruß</p>
             <closer>
                <salute>Dein tr. Lbb.</salute>
-               <signed><rs ref="#P00673" type="person">Gerich</rs>, th. <figure>
+               <signed><rs ref="#tillich_person_id__673" type="person">Gerich</rs>, th. <figure>
                      <figDesc>Drei Wingolfzirkel. Gießen, Berlin. Das dritte unklar.</figDesc>
                   </figure></signed>
             </closer>
          </div>
       </body>
-   <back><listPerson><person xml:id="P01930">
-               <idno type="gnd">118622692</idno>
-               <idno type="DB">https://www.deutsche-biographie.de/pnd118622692.html</idno>
-               <persName type="reg">
-                  <forename>Paul Johannes</forename>
-                  <surname>Tillich</surname>
-               </persName>
-               <persName type="nick">Paulus</persName>
-               <persName type="nick">Paule</persName>
-               <birth>
-                  <date when="1886-08-20">20. August 1886</date>
-                  <placeName>Starzeddel</placeName>
-               </birth>
-               <death>
-                  <date when="1965-10-20">20. Oktober 1965</date>
-                  <placeName>Chicago, Illinois</placeName>
-               </death>
-               <occupation>Evangelischer Theologe; Religionsphilosoph; Er lehrte von 1919 bis 1933 an verschiedenen Universitäten. Wegen seiner führenden Rolle beim „Bund religiöser Sozialisten" wurde er 1933 suspendiert und emigrierte in die USA, wo er 1940 die amerikanische Staatsbürgerschaft annahm. Nachdem er zunächst am Union Theological Seminary in New York unterrichtet hatte, wechselte er 1955 an die Harvard University und war seit 1962 Professor an der Universität Chicago</occupation>
-            <noteGrp><note target="L00041.xml" type="mentions">Brief von Marie Tillich an Paul Tillich</note><note target="L00046.xml" type="mentions">Postkarte von Gustav Dürselen an Paul Tillich </note><note target="L00046.xml" type="mentions">Postkarte von Gustav Dürselen an Paul Tillich </note><note target="L00047.xml" type="mentions">Brief von Gerich an Paul Tillich </note><note target="L00047.xml" type="mentions">Brief von Gerich an Paul Tillich </note><note target="L00048.xml" type="mentions">Postkarte von Margarete Tillich an Paul Tillich
-               </note><note target="L00048.xml" type="mentions">Postkarte von Margarete Tillich an Paul Tillich
-               </note><note target="L00054.xml" type="mentions">Brief von Toni Winkler an Paul Tillich </note><note target="L00054.xml" type="mentions">Brief von Toni Winkler an Paul Tillich </note><note target="L00055.xml" type="mentions">Brief von Johannes Tillich an Paul Tillich </note><note target="L00055.xml" type="mentions">Brief von Johannes Tillich an Paul Tillich </note><note target="L00064.xml" type="mentions">Brief von Schwester Therese an Paul Tillich </note><note target="L00064.xml" type="mentions">Brief von Schwester Therese an Paul Tillich </note><note target="L00065.xml" type="mentions">Brief von Johannes Tillich an Paul Tillich </note><note target="L00065.xml" type="mentions">Brief von Johannes Tillich an Paul Tillich </note><note target="L00066.xml" type="mentions">Postkarte von Johannes Tillich u. a. an Paul Tillich </note><note target="L00066.xml" type="mentions">Postkarte von Johannes Tillich u. a. an Paul Tillich </note><note target="L00067.xml" type="mentions">Brief von Gerich an Paul Tillich </note><note target="L00068.xml" type="mentions">Brieffragment von Johanna Tillich an Paul Tillich </note><note target="L00068.xml" type="mentions">Brieffragment von Johanna Tillich an Paul Tillich </note><note target="L00069.xml" type="mentions">Postkarte von Johannes Tillich, Paul Dürselen und Onkel Adolf an Paul Tillich
-               </note><note target="L00069.xml" type="mentions">Postkarte von Johannes Tillich, Paul Dürselen und Onkel Adolf an Paul Tillich
-               </note><note target="L00070.xml" type="mentions">Postkarte von Johannes Tillich an Paul Tillich </note><note target="L00070.xml" type="mentions">Postkarte von Johannes Tillich an Paul Tillich </note><note target="L00072.xml" type="mentions">Postkarte von Johanna Tillich an Paul Tillich </note><note target="L00072.xml" type="mentions">Postkarte von Johanna Tillich an Paul Tillich </note><note target="L00073.xml" type="mentions">Postkarte von Johanna Tillich an Paul Tillich </note><note target="L00076.xml" type="mentions">Postkarte von Margarete Tillich an Paul Tillich </note><note target="L00076.xml" type="mentions">Postkarte von Margarete Tillich an Paul Tillich </note><note target="L00131.xml" type="mentions">Postkarte von Hans Balke an Paul Tillich</note><note target="L00135.xml" type="mentions">Brief von Paul Tillich an Alfred Fritz
-               </note><note target="L00136.xml" type="mentions">Brief von Paul Tillich an Alfred Fritz
-               </note><note target="L00136.xml" type="mentions">Brief von Paul Tillich an Alfred Fritz
-               </note><note target="L00146.xml" type="mentions">Brief von Herrmann Schafft an Paul Tillich </note><note target="L00146.xml" type="mentions">Brief von Herrmann Schafft an Paul Tillich </note><note target="L00148.xml" type="mentions">Postkarte von Spatz an Paul Tillich </note><note target="L00148.xml" type="mentions">Postkarte von Spatz an Paul Tillich </note><note target="L00149.xml" type="mentions">Brief von Alfred Fritz an Paul Tillich </note><note target="L00149.xml" type="mentions">Brief von Alfred Fritz an Paul Tillich </note><note target="L00150.xml" type="mentions">Brief von Hans Balke an Paul Tillich </note><note target="L00150.xml" type="mentions">Brief von Hans Balke an Paul Tillich </note><note target="L00152.xml" type="mentions">Postkarte von Hermann Schafft an Paul Tillich </note><note target="L00152.xml" type="mentions">Postkarte von Hermann Schafft an Paul Tillich </note><note target="L00158.xml" type="mentions">Brief von Hans Balke an Paul Tillich </note><note target="L00158.xml" type="mentions">Brief von Hans Balke an Paul Tillich </note><note target="L00164.xml" type="mentions">Brief von Johannes Bertheau an Paul Tillich</note><note target="L00164.xml" type="mentions">Brief von Johannes Bertheau an Paul Tillich</note><note target="L00165.xml" type="mentions">Postkarte von Gerty an Paul Tillich </note><note target="L00165.xml" type="mentions">Postkarte von Gerty an Paul Tillich </note><note target="L00167.xml" type="mentions">Postkarte von Elisabeth Tillich an Paul Tillich </note><note target="L00167.xml" type="mentions">Postkarte von Elisabeth Tillich an Paul Tillich </note><note target="L00170.xml" type="mentions">Brief von Toni Winkler an Paul Tillich</note><note target="L00170.xml" type="mentions">Brief von Toni Winkler an Paul Tillich</note><note target="L00187.xml" type="mentions">Brief von Lorenz Bertheau an Paul Tillich </note><note target="L00187.xml" type="mentions">Brief von Lorenz Bertheau an Paul Tillich </note><note target="L00235.xml" type="mentions">Postkarte von Otto Heller an Paul Tillich </note><note target="L00235.xml" type="mentions">Postkarte von Otto Heller an Paul Tillich </note><note target="L00252.xml" type="mentions">Brief von Otto Heller an Paul Tillich </note><note target="L00252.xml" type="mentions">Brief von Otto Heller an Paul Tillich </note><note target="L00258.xml" type="mentions">Brief von Gilbert van der Smissen an Paul Tillich </note><note target="L00258.xml" type="mentions">Brief von Gilbert van der Smissen an Paul Tillich </note><note target="L00260.xml" type="mentions">Brief von Otto Heller an Paul Tillich
-               </note><note target="L00260.xml" type="mentions">Brief von Otto Heller an Paul Tillich
-               </note><note target="L00261.xml" type="mentions">Brief von Hans Schreiber an Paul Tillich </note><note target="L00261.xml" type="mentions">Brief von Hans Schreiber an Paul Tillich </note><note target="L00262.xml" type="mentions">Postkarte von Wingolfbrüdern an Paul Tillich </note><note target="L00262.xml" type="mentions">Postkarte von Wingolfbrüdern an Paul Tillich </note><note target="L00264.xml" type="mentions">Postkarte von Gysbert van der Smissen an Paul Tillich </note><note target="L00269.xml" type="mentions">Postkarte von Albert Kilger und Spatz an Paul Tillich </note><note target="L00269.xml" type="mentions">Postkarte von Albert Kilger und Spatz an Paul Tillich </note><note target="L00390.xml" type="mentions">Brief von Paul Tillich und Greti Wever an Alfred Fritz
-                    </note><note target="L00390.xml" type="mentions">Brief von Paul Tillich und Greti Wever an Alfred Fritz
-                    </note><note target="L00391.xml" type="mentions">Brief von Hermann Steinhausen an Paul Tillich </note><note target="L00391.xml" type="mentions">Brief von Hermann Steinhausen an Paul Tillich </note><note target="L00392.xml" type="mentions">Brief von Paul Tillich an Mathilde und Wilhelm Wever
-               </note><note target="L00392.xml" type="mentions">Brief von Paul Tillich an Mathilde und Wilhelm Wever
-               </note><note target="L00393.xml" type="mentions">Telegramm von Paul Tillich an Johannes Tillich
+   <back><listPerson><person xml:id="tillich_person_id__2544">
+                  <persName>Spicker,</persName>
+                  <occupation>Missionsinspektor/Erwähnt in: 1907.04.05 Balke, H. an Tillich, P.</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1028222882</idno>
+               <noteGrp><note target="L00067.xml" type="mentions">Brief von Gerich an Paul Tillich </note><note target="L00158.xml" type="mentions">Brief von Hans Balke an Paul Tillich </note></noteGrp></person>
+               <person xml:id="tillich_person_id__227">
+                  <persName>Blech, George</persName>
+               <noteGrp><note target="L00067.xml" type="mentions">Brief von Gerich an Paul Tillich </note></noteGrp></person>
+               <person xml:id="tillich_person_id__2136">
+                  <persName>Kaumann, E.</persName>
+                  <occupation>Studienkollege von Tillich aus der frühen Tübinger Zeit 1905</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118600605</idno>
+               <noteGrp><note target="L00065.xml" type="mentions">Brief von Johannes Tillich an Paul Tillich </note><note target="L00066.xml" type="mentions">Postkarte von Johannes Tillich u. a. an Paul Tillich </note><note target="L00067.xml" type="mentions">Brief von Gerich an Paul Tillich </note><note target="L00068.xml" type="mentions">Brieffragment von Johanna Tillich an Paul Tillich </note></noteGrp></person>
+               <person xml:id="tillich_person_id__1074">
+                  <persName>Koch, Karl</persName>
+               <noteGrp><note target="L00047.xml" type="mentions">Brief von Gerich an Paul Tillich </note><note target="L00067.xml" type="mentions">Brief von Gerich an Paul Tillich </note></noteGrp></person>
+               <person xml:id="tillich_person_id__1696">
+                  <persName>Schafft, Hermann</persName>
+                  <birth><date>1883</date></birth>
+                  <death><date>1959</date></death>
+               <noteGrp><note target="L00067.xml" type="mentions">Brief von Gerich an Paul Tillich </note><note target="L00146.xml" type="mentions">Brief von Herrmann Schafft an Paul Tillich </note><note target="L00152.xml" type="mentions">Postkarte von Hermann Schafft an Paul Tillich </note><note target="L00252.xml" type="mentions">Brief von Otto Heller an Paul Tillich </note><note target="L00394.xml" type="mentions">Brief von Hermann Schafft an Paul Tillich
+               </note><note target="L00395.xml" type="mentions">Brief von Paul Tillich an Toni Winkler
+               </note><note target="L00398.xml" type="mentions">Brief von Paul Tillich an Alfred Fritz
+                    </note></noteGrp></person>
+               <person xml:id="tillich_person_id__673">
+                  <persName>Gerich,</persName>
+               <noteGrp><note target="L00047.xml" type="mentions">Brief von Gerich an Paul Tillich </note><note target="L00067.xml" type="mentions">Brief von Gerich an Paul Tillich </note></noteGrp></person>
+               <person xml:id="tillich_person_id__1928">
+                  <persName>Tillich, Paul</persName>
+                  <birth><date>1886</date></birth>
+                  <death><date>1965</date></death>
+                  <occupation>Evangelischer Theologe; Religionsphilosoph; Er lehrte von 1919 bis 1933 an verschiedenen Universitäten. Wegen seiner führenden Rolle beim „Bund religiöser Sozialisten" wurde er 1933 suspendiert und emigrierte in die USA, wo er 1940 die amerikanische Staatsbürgerschaft annahm. Nachdem er zunächst am Union Theological Seminary in New York unterrichtet hatte, wechselte er 1955 an die Harvard University und war seit 1962 Professor an der Universität Chicago</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+               <noteGrp><note target="L00046.xml" type="mentions">Postkarte von Gustav Dürselen an Paul Tillich </note><note target="L00047.xml" type="mentions">Brief von Gerich an Paul Tillich </note><note target="L00048.xml" type="mentions">Postkarte von Margarete Tillich an Paul Tillich
+               </note><note target="L00054.xml" type="mentions">Brief von Toni Winkler an Paul Tillich </note><note target="L00055.xml" type="mentions">Brief von Johannes Tillich an Paul Tillich </note><note target="L00064.xml" type="mentions">Brief von Schwester Therese an Paul Tillich </note><note target="L00065.xml" type="mentions">Brief von Johannes Tillich an Paul Tillich </note><note target="L00066.xml" type="mentions">Postkarte von Johannes Tillich u. a. an Paul Tillich </note><note target="L00067.xml" type="mentions">Brief von Gerich an Paul Tillich </note><note target="L00068.xml" type="mentions">Brieffragment von Johanna Tillich an Paul Tillich </note><note target="L00069.xml" type="mentions">Postkarte von Johannes Tillich, Paul Dürselen und Onkel Adolf an Paul Tillich
+               </note><note target="L00070.xml" type="mentions">Postkarte von Johannes Tillich an Paul Tillich </note><note target="L00072.xml" type="mentions">Postkarte von Johanna Tillich an Paul Tillich </note><note target="L00076.xml" type="mentions">Postkarte von Margarete Tillich an Paul Tillich </note><note target="L00136.xml" type="mentions">Brief von Paul Tillich an Alfred Fritz
+               </note><note target="L00146.xml" type="mentions">Brief von Herrmann Schafft an Paul Tillich </note><note target="L00148.xml" type="mentions">Postkarte von Spatz an Paul Tillich </note><note target="L00149.xml" type="mentions">Brief von Alfred Fritz an Paul Tillich </note><note target="L00150.xml" type="mentions">Brief von Hans Balke an Paul Tillich </note><note target="L00152.xml" type="mentions">Postkarte von Hermann Schafft an Paul Tillich </note><note target="L00158.xml" type="mentions">Brief von Hans Balke an Paul Tillich </note><note target="L00164.xml" type="mentions">Brief von Johannes Bertheau an Paul Tillich</note><note target="L00165.xml" type="mentions">Postkarte von Gerty an Paul Tillich </note><note target="L00167.xml" type="mentions">Postkarte von Elisabeth Tillich an Paul Tillich </note><note target="L00170.xml" type="mentions">Brief von Toni Winkler an Paul Tillich</note><note target="L00187.xml" type="mentions">Brief von Lorenz Bertheau an Paul Tillich </note><note target="L00235.xml" type="mentions">Postkarte von Otto Heller an Paul Tillich </note><note target="L00252.xml" type="mentions">Brief von Otto Heller an Paul Tillich </note><note target="L00258.xml" type="mentions">Brief von Gilbert van der Smissen an Paul Tillich </note><note target="L00260.xml" type="mentions">Brief von Otto Heller an Paul Tillich
+               </note><note target="L00261.xml" type="mentions">Brief von Hans Schreiber an Paul Tillich </note><note target="L00262.xml" type="mentions">Postkarte von Wingolfbrüdern an Paul Tillich </note><note target="L00269.xml" type="mentions">Postkarte von Albert Kilger und Spatz an Paul Tillich </note><note target="L00390.xml" type="mentions">Brief von Paul Tillich und Greti Wever an Alfred Fritz
+                    </note><note target="L00391.xml" type="mentions">Brief von Hermann Steinhausen an Paul Tillich </note><note target="L00392.xml" type="mentions">Brief von Paul Tillich an Mathilde und Wilhelm Wever
                </note><note target="L00393.xml" type="mentions">Telegramm von Paul Tillich an Johannes Tillich
                </note><note target="L00394.xml" type="mentions">Brief von Hermann Schafft an Paul Tillich
-               </note><note target="L00394.xml" type="mentions">Brief von Hermann Schafft an Paul Tillich
                </note><note target="L00395.xml" type="mentions">Brief von Paul Tillich an Toni Winkler
-               </note><note target="L00395.xml" type="mentions">Brief von Paul Tillich an Toni Winkler
-               </note><note target="L00396.xml" type="mentions">Brief von Paul Tillich an Johannes Tillich
-                    </note><note target="L00397.xml" type="mentions">Brief von Paul Tillich an Johannes Tillich
                </note><note target="L00397.xml" type="mentions">Brief von Paul Tillich an Johannes Tillich
                </note><note target="L00398.xml" type="mentions">Brief von Paul Tillich an Alfred Fritz
-                    </note><note target="L00398.xml" type="mentions">Brief von Paul Tillich an Alfred Fritz
-                    </note><note target="L00399.xml" type="mentions">Brief von Paul Tillich an Johannes Tillich
                     </note><note target="L00399.xml" type="mentions">Brief von Paul Tillich an Johannes Tillich
                     </note><note target="L00400.xml" type="mentions">Brief von Karl Hartz an Paul Tillich
-               </note><note target="L00400.xml" type="mentions">Brief von Karl Hartz an Paul Tillich
                </note><note target="L00401.xml" type="mentions">Brief von Paul Tillich an Toni Winkler
-                    </note><note target="L00401.xml" type="mentions">Brief von Paul Tillich an Toni Winkler
-                    </note><note target="L00402.xml" type="mentions">Brief von Paul Tillich an Elisabeth Tillich
                     </note><note target="L00402.xml" type="mentions">Brief von Paul Tillich an Elisabeth Tillich
                     </note><note target="L00403.xml" type="mentions">Brief von Paul Tillich an Eilsabeth Tillich (Umschlagsadresse Alfred Fritz)
-               </note><note target="L00403.xml" type="mentions">Brief von Paul Tillich an Eilsabeth Tillich (Umschlagsadresse Alfred Fritz)
-               </note><note target="L00404.xml" type="mentions">Brief von Paul Tillich an Johanna Tillich
                </note><note target="L00404.xml" type="mentions">Brief von Paul Tillich an Johanna Tillich
                </note><note target="L00407.xml" type="mentions">Postkarte von Paul Tillich an Johannes Tillich
                </note><note target="L00409.xml" type="mentions">Brief von Paul Tillich an Johannes Tillich
-                    </note><note target="L00409.xml" type="mentions">Brief von Paul Tillich an Johannes Tillich
                     </note><note target="L00410.xml" type="mentions">Brief von Paul Tillich an Johannes Tillich
-               </note><note target="L00410.xml" type="mentions">Brief von Paul Tillich an Johannes Tillich
                </note><note target="L00411.xml" type="mentions">Brief von Paul Tillich an Marie Tillich-Scheidemantel und Margarete Tillich
-               </note><note target="L00411.xml" type="mentions">Brief von Paul Tillich an Marie Tillich-Scheidemantel und Margarete Tillich
-               </note><note target="L00413.xml" type="mentions">Feldpostkarte von Karl Hartz an Paul Tillich
                </note><note target="L00414.xml" type="mentions">Brief von Paul Tillich an Familie: Johannes Tillich, Marie Tillich-Scheidemantel, Margarete Tillich, Alfred Fritz
-               </note><note target="L00414.xml" type="mentions">Brief von Paul Tillich an Familie: Johannes Tillich, Marie Tillich-Scheidemantel, Margarete Tillich, Alfred Fritz
-               </note><note target="L00416.xml" type="mentions">Postkarte von Paul Tillich an Margarete Tillich
                </note><note target="L00416.xml" type="mentions">Postkarte von Paul Tillich an Margarete Tillich
                </note><note target="L00417.xml" type="mentions">Brief von Paul Tillich an Fritz Medicus
-                    </note><note target="L00417.xml" type="mentions">Brief von Paul Tillich an Fritz Medicus
-                    </note><note target="L00418.xml" type="mentions">Brief von Paul Tillich an Johannes Tillich
-               </note><note target="L00419.xml" type="mentions">Brief von Paul Tillich an Maria Klein
-               </note><note target="L00419.xml" type="mentions">Brief von Paul Tillich an Maria Klein
+                    </note><note target="L00419.xml" type="mentions">Brief von Paul Tillich an Maria Klein
                </note><note target="L00420.xml" type="mentions">Feldpostkarte von Paul Tillich an Johannes Tillich
-               </note><note target="L00420.xml" type="mentions">Feldpostkarte von Paul Tillich an Johannes Tillich
-               </note><note target="L00422.xml" type="mentions">Brief von Paul Tillich an Margarete Tillich
                </note><note target="L00422.xml" type="mentions">Brief von Paul Tillich an Margarete Tillich
                </note><note target="L00423.xml" type="mentions">Brief von Paul Tillich an Maria Klein
-                    </note><note target="L00423.xml" type="mentions">Brief von Paul Tillich an Maria Klein
-                    </note><note target="L00424.xml" type="mentions">Brief von Paul Tillich an Johannes Tillich
                     </note><note target="L00424.xml" type="mentions">Brief von Paul Tillich an Johannes Tillich
                     </note><note target="L00425.xml" type="mentions">Brief von Paul Tillich an Johannes Tillich
-               </note><note target="L00425.xml" type="mentions">Brief von Paul Tillich an Johannes Tillich
                </note><note target="L00426.xml" type="mentions">Brief von Paul Tillich an Johannes Tillich
-                    </note><note target="L00426.xml" type="mentions">Brief von Paul Tillich an Johannes Tillich
                     </note><note target="L00427.xml" type="mentions">Postkarte von Paul Tillich an Maria Tillich
-                    </note><note target="L00427.xml" type="mentions">Postkarte von Paul Tillich an Maria Tillich
-                    </note><note target="L00429.xml" type="mentions">Feldpostkarte von Paul Tillich an Johannes Tillich
                     </note><note target="L00429.xml" type="mentions">Feldpostkarte von Paul Tillich an Johannes Tillich
                     </note><note target="L00431.xml" type="mentions">Brief von Paul Tillich an Johannes Tillich
-               </note><note target="L00431.xml" type="mentions">Brief von Paul Tillich an Johannes Tillich
                </note><note target="L00432.xml" type="mentions">Brief von Paul Tillich an Johannes Tillich
-                    </note><note target="L00432.xml" type="mentions">Brief von Paul Tillich an Johannes Tillich
                     </note><note target="L00433.xml" type="mentions">Brief von Paul Tillich an Max Wölfing
-               </note><note target="L00433.xml" type="mentions">Brief von Paul Tillich an Max Wölfing
                </note><note target="L00434.xml" type="mentions">Brief von Paul Tillich an Elisabeth Tillich
-               </note><note target="L00434.xml" type="mentions">Brief von Paul Tillich an Elisabeth Tillich
-               </note><note target="L00436.xml" type="mentions">Brief von Paul Tillich an Johannes Tillich
                </note><note target="L00436.xml" type="mentions">Brief von Paul Tillich an Johannes Tillich
                </note><note target="L00437.xml" type="mentions">Brief von Paul Tillich an Johannes Tillich
-                    </note><note target="L00437.xml" type="mentions">Brief von Paul Tillich an Johannes Tillich
                     </note><note target="L00438.xml" type="mentions">Brief von Paul Tillich an Johannes Tillich
-                    </note><note target="L00438.xml" type="mentions">Brief von Paul Tillich an Johannes Tillich
-                    </note><note target="L00441.xml" type="mentions">Brief von Paul Tillich an Maria Klein </note><note target="L00441.xml" type="mentions">Brief von Paul Tillich an Maria Klein </note><note target="L00442.xml" type="mentions">Brief von Paul Tillich an Marie Tillich und Margarete Tillich </note><note target="L00442.xml" type="mentions">Brief von Paul Tillich an Marie Tillich und Margarete Tillich </note></noteGrp></person>  
-            <person xml:id="P02549">
-               <idno type="gnd">1028222882</idno>
-               <idno type="DB">https://www.deutsche-biographie.de/pnd1028222882.html</idno>
-               <persName type="reg">
-                  <forename>Johannes</forename>
-                  <surname>Spiecker</surname>
-               </persName>
-               <birth>
-                  <date when="1856-03-29">29. März 1856</date>
-               </birth>
-               <death>
-                  <date when="1920-01-19">19. Januar 1920</date>
-               </death>
-               <occupation>Missionsinspektor/Erwähnt in: 1907.04.05 Balke, H. an Tillich, P.</occupation>
-            <noteGrp><note target="L00067.xml" type="mentions">Brief von Gerich an Paul Tillich </note><note target="L00158.xml" type="mentions">Brief von Hans Balke an Paul Tillich </note></noteGrp></person>  
-            <person xml:id="P02140">
-               <idno type="gnd">k. A.</idno>
-               <idno type="DB">k. A.</idno>
-               <persName type="reg">
-                  <forename>k. A.</forename>
-                  <surname>Kaumann</surname>
-               </persName>
-               <birth>
-                  <date>k. A.</date>
-               </birth>
-               <death>
-                  <date>k. A.</date>
-               </death>
-               <occupation>Studienkollege von Tillich aus der frühen Tübinger Zeit 1905</occupation>
-            <noteGrp><note target="L00065.xml" type="mentions">Brief von Johannes Tillich an Paul Tillich </note><note target="L00066.xml" type="mentions">Postkarte von Johannes Tillich u. a. an Paul Tillich </note><note target="L00067.xml" type="mentions">Brief von Gerich an Paul Tillich </note><note target="L00068.xml" type="mentions">Brieffragment von Johanna Tillich an Paul Tillich </note></noteGrp></person>
-            </listPerson></back></text>
+                    </note><note target="L00441.xml" type="mentions">Brief von Paul Tillich an Maria Klein </note><note target="L00442.xml" type="mentions">Brief von Paul Tillich an Marie Tillich und Margarete Tillich </note></noteGrp></person>
+               </listPerson></back></text>
 </TEI>
